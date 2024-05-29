@@ -1,0 +1,2 @@
+seed map network sample typeofdata reps iters law optimfunc humanactivity xintro yintro pintro lambda mu sigma gamma w1 w2 w3 w4 w5 w6 wmin save-outputs save-all-states
+82195705 input/map.txt input/network.txt input/sample.txt PRESENCE_ABSENCE 1000 25 LOG_NORMAL LOG_LIKELIHOOD NO 31238.5 66451.8 1 13.1442 3.79945 2.41337 0 0.552323 0.906278 0.0759662 0.00896529 0 0 0 1 1

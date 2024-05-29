@@ -1,0 +1,20 @@
+#ifndef __HMD_model__Config__
+#define __HMD_model__Config__
+
+
+/*-------------------------------------*/
+/* 1) DEFINE PACKAGE NAME              */
+/*-------------------------------------*/
+
+#define PACKAGE @PACKAGE@
+
+/*-------------------------------------*/
+/* 2) DEFINE VERSION NUMBER            */
+/*-------------------------------------*/
+
+#define VERSION_MAJOR @VERSION_MAJOR@
+#define VERSION_MINOR @VERSION_MINOR@
+#define VERSION_PATCH @VERSION_PATCH@
+
+
+#endif /* defined(__HMD_model__Config__) */
